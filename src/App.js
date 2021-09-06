@@ -165,27 +165,27 @@ function App() {
         </div>
       </div>
 
-      <footer className="footer">
-        <div id="footer-header">Are your investments making gains?</div>
-        <p>Check to see if your stocks are making any profit or loss! Just input the price you bought the stock at and its current price and check to see!</p>
-        
-        <div id="footer-socials">
-            <ul className="footer-socials-list">
-                <li>
-                    <a className="footer-links" href="https://www.github.com"><i className="fab fa-github fa-lg social-icn"></i></a>
-                </li>
-                <li>
-                    <a className="footer-links" href="https://www.linkedin.com"><i className="fab fa-linkedin fa-lg social-icn"></i></a>
-                </li>
-                <li>
-                    <a className="footer-links" href="https://www.instagram.com"><i className="fab fa-instagram fa-lg social-icn"></i></a>
-                </li>
-            </ul>
-            
-        </div>
+        <footer className="footer">
+          <div id="footer-header">Are your investments making gains?</div>
+          <p>Check to see if your stocks are making any profit or loss! Just input the price you bought the stock at and its current price and check to see!</p>
+          
+          <div id="footer-socials">
+              <ul className="footer-socials-list">
+                  <li>
+                      <a className="footer-links" href="https://www.github.com"><i className="fab fa-github fa-lg social-icn"></i></a>
+                  </li>
+                  <li>
+                      <a className="footer-links" href="https://www.linkedin.com"><i className="fab fa-linkedin fa-lg social-icn"></i></a>
+                  </li>
+                  <li>
+                      <a className="footer-links" href="https://www.instagram.com"><i className="fab fa-instagram fa-lg social-icn"></i></a>
+                  </li>
+              </ul>
+              
+          </div>
 
-        <p id="footer-cc-text"><i className="far fa-copyright"></i> | 2021 Rights reserved</p>
-    </footer>
+          <p id="footer-cc-text"><i className="far fa-copyright"></i> | 2021 Rights reserved</p>
+      </footer>
 
     </div>
 
