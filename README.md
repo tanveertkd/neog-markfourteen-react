@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# neog-markfourteen-react
+An app that checks the profit/loss of a stock
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
