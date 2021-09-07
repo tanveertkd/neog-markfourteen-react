@@ -172,13 +172,13 @@ function App() {
           <div id="footer-socials">
               <ul className="footer-socials-list">
                   <li>
-                      <a className="footer-links" href="https://www.github.com"><i className="fab fa-github fa-lg social-icn"></i></a>
+                      <a className="footer-links" href="https://www.github.com/tanveertkd"><i className="fab fa-github fa-lg social-icn"></i></a>
                   </li>
                   <li>
-                      <a className="footer-links" href="https://www.linkedin.com"><i className="fab fa-linkedin fa-lg social-icn"></i></a>
+                      <a className="footer-links" href="https://www.linkedin.com/in/tanveer-hazarika/"><i className="fab fa-linkedin fa-lg social-icn"></i></a>
                   </li>
                   <li>
-                      <a className="footer-links" href="https://www.instagram.com"><i className="fab fa-instagram fa-lg social-icn"></i></a>
+                      <a className="footer-links" href="https://www.instagram.com/tanveerhazarika"><i className="fab fa-instagram fa-lg social-icn"></i></a>
                   </li>
               </ul>
               
